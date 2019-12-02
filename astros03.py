@@ -15,3 +15,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+     ## intro to looping
+for poi in ASTROS["people"]:
+         print(poi["name"], "is riding on the", poi["craft"])
+
+if __name__ == "main__":
+    main()
